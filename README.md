@@ -4,7 +4,7 @@ CHALLENGE:
 	on finding the paths which are least affected and suitable for the rescue
 	vehicle to reach the affected area.
 
-Idea:
+IDEA:
 	we will develop a software that initially find all the paths from 
 	affected area to safe area, then  few rescue team will start 
 	exploring the paths based on the information from rescue team,
